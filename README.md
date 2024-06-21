@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0066-plus-one) |
+| [2752-sum-multiples](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 # Hash Table
 |  |
