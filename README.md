@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0066-plus-one) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 # Math
 |  |
 | ------- |
@@ -22,4 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Simulation
 |  |
 | ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
+# Queue
+|  |
+| ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+# Sorting
+|  |
+| ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
