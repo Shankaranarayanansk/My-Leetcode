@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0066-plus-one) |
+| [0200-number-of-islands](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0200-number-of-islands) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1039-find-the-town-judge](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1039-find-the-town-judge) |
 # Math
@@ -66,3 +67,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1039-find-the-town-judge) |
+# Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0200-number-of-islands) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0200-number-of-islands) |
+# Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0200-number-of-islands) |
+# Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0200-number-of-islands) |
