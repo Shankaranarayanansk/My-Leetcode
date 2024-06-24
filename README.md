@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0066-plus-one) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1039-find-the-town-judge](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1039-find-the-town-judge) |
 # Math
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0001-two-sum) |
+| [1039-find-the-town-judge](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1039-find-the-town-judge) |
 # Simulation
 |  |
 | ------- |
@@ -60,3 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0742-to-lower-case](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0742-to-lower-case) |
+# Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1039-find-the-town-judge) |
