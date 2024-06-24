@@ -5,7 +5,7 @@ class Solution {
         int[] count = new int[n + 1];
         for (int[] person : trust) {
             count[person[0]]--;
-            count[person[1]]++;
+            count [person[1]]++;
         }
 
         for (int person = 0; person < count.length; person++) {
