@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0260-single-number-iii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1039-find-the-town-judge](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1039-find-the-town-judge) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 # Math
 |  |
 | ------- |
@@ -97,3 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0260-single-number-iii](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0371-sum-of-two-integers) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+# Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
