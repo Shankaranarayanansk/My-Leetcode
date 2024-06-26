@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1039-find-the-town-judge](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1039-find-the-town-judge) |
 | [1961-maximum-ice-cream-bars](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2621-find-xor-beauty-of-array](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2621-find-xor-beauty-of-array) |
 # Math
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0504-base-7](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1013-fibonacci-number) |
+| [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2621-find-xor-beauty-of-array](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2752-sum-multiples](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2752-sum-multiples) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0260-single-number-iii](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0260-single-number-iii) |
 | [0371-sum-of-two-integers](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0371-sum-of-two-integers) |
+| [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2621-find-xor-beauty-of-array](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2621-find-xor-beauty-of-array) |
 # Brainteaser
