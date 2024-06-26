@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0260-single-number-iii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1039-find-the-town-judge](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1039-find-the-town-judge) |
+| [1961-maximum-ice-cream-bars](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 # Math
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1961-maximum-ice-cream-bars](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -105,3 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+# Greedy
+|  |
+| ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1961-maximum-ice-cream-bars) |
