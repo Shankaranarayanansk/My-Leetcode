@@ -125,3 +125,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0022-generate-parentheses) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+## Sorting
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+<!---LeetCode Topics End-->
