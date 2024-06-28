@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0022-generate-parentheses) |
 | [1013-fibonacci-number](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 # Recursion
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0022-generate-parentheses) |
 | [0742-to-lower-case](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0742-to-lower-case) |
 # Graph
 |  |
@@ -119,3 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1961-maximum-ice-cream-bars) |
+# Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0022-generate-parentheses) |
