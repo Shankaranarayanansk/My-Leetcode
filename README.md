@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0204-count-primes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Bit Manipulation
@@ -148,4 +149,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
