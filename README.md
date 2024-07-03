@@ -206,4 +206,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0043-multiply-strings) |
+## Tree
+|  |
+| ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 <!---LeetCode Topics End-->
