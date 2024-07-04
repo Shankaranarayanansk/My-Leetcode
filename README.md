@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0043-multiply-strings) |
 | [0204-count-primes](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0204-count-primes) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2491-smallest-even-multiple](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2491-smallest-even-multiple) |
