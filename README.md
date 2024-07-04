@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0043-multiply-strings) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3379-score-of-a-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3379-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
