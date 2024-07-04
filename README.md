@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 ## Geometry
 |  |
