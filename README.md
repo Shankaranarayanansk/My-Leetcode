@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0217-contains-duplicate) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2887-sort-vowels-in-a-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0043-multiply-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2887-sort-vowels-in-a-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3379-score-of-a-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3379-score-of-a-string) |
 ## Simulation
