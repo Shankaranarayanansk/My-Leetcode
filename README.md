@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0043-multiply-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -278,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0197-rising-temperature](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0197-rising-temperature) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
