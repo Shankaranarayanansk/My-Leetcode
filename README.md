@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1306-minimum-absolute-difference](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0029-divide-two-integers) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -324,11 +327,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Trie
 |  |
