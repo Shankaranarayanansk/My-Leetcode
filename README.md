@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0204-count-primes](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0217-contains-duplicate) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0035-search-insert-position) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Prefix Sum
 |  |
