@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0204-count-primes](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0217-contains-duplicate) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1635-number-of-good-pairs](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -286,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
