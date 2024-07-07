@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0197-rising-temperature) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 ## Stack
 |  |
