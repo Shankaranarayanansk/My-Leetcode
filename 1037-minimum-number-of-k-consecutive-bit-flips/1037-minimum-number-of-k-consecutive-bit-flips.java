@@ -1,15 +1,15 @@
 class Solution {
-   public int minKBitFlips(int[] nums, int K) {
-        int n = nums.length, flip = 0, res = 0;
-        int[] isFlip  = new int[n];
+    public int minKBitFlips(int[] nums, int k) {
+        int n = nums.length, flipped = 0, res = 0;
+        int[] isFlipped = new int[n];
         for (int i = 0; i < nums.length; ++i) {
-            if (i >= K)
-                flip ^= isFlip [i - K];
-            if (flip   == nums[i]) {
-                if (i + K > nums.length)
-                    return -1;
-                isFlip [i] = 1;
-                flip  ^= 1;
+            if (i >= k)
+                flipped ^= isFlipped[i - k];
+                if (flipped == nums[i]) {
+                    if (i + k > nums.length)
+                        return -1;
+                isFlipped[i] = 1;
+                flipped ^= 1;
                 res++;
             }
         }
