@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0217-contains-duplicate) |
+| [0290-word-pattern](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0290-word-pattern) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1635-number-of-good-pairs](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Backtracking
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0043-multiply-strings) |
+| [0290-word-pattern](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
