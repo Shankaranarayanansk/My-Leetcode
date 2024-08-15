@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1835-decode-xored-permutation](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1835-decode-xored-permutation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0029-divide-two-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1835-decode-xored-permutation](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1835-decode-xored-permutation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sorting
