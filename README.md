@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0217-contains-duplicate) |
+| [0778-reorganize-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0778-reorganize-string) |
 | [1306-minimum-absolute-difference](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -176,12 +177,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0778-reorganize-string) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1635-number-of-good-pairs](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Greedy
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0778-reorganize-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0778-reorganize-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0290-word-pattern) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0778-reorganize-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0778-reorganize-string) |
 | [1635-number-of-good-pairs](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Backtracking
 |  |
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0043-multiply-strings) |
 | [0290-word-pattern](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0778-reorganize-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0778-reorganize-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -374,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
