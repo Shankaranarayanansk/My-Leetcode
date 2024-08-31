@@ -11,7 +11,7 @@ class Solution {
         return results;
     }
 
-    private void solveNQueensRec(int n, int[] solution, int row, List<List<String>> results) {
+    public void solveNQueensRec(int n, int[] solution, int row, List<List<String>> results) {
         if (row == n) {
             results.add(constructSolutionString(solution));
             return;
@@ -22,11 +22,12 @@ class Solution {
                 solution[row] = col;
                 solveNQueensRec(n, solution, row + 1, results);
                 solution[row] = -1;
+                solution[row] = -1;
             }
         }
     }
 
-    private boolean isValidMove(int row, int col, int[] solution) {
+    public boolean isValidMove(int row, int col, int[] solution) {
         for (int i = 0; i < row; i++) {
             int c = solution[i];
             if (c == col || c - i == col - row || c + i == col + row) return false;
@@ -34,7 +35,7 @@ class Solution {
         return true;
     }
 
-    private List<String> constructSolutionString(int[] solution) {
+    public List<String> constructSolutionString(int[] solution) {
         List<String> board = new ArrayList<>();
         for (int col : solution) {
             char[] row = new char[solution.length];
