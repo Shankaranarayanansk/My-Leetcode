@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0050-powx-n) |
 ## String
 |  |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0014-longest-common-prefix) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0010-regular-expression-matching) |
 | [0300-longest-increasing-subsequence](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
