@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0778-reorganize-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0778-reorganize-string) |
