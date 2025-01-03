@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0742-to-lower-case](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0742-to-lower-case) |
 | [0778-reorganize-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0778-reorganize-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
