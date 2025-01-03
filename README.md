@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0619-biggest-single-number](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0620-not-boring-movies) |
 | [1179-game-play-analysis-i](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
