@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0204-count-primes) |
+| [0507-perfect-number](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0507-perfect-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1635-number-of-good-pairs) |
