@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0231-power-of-two) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1835-decode-xored-permutation](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1835-decode-xored-permutation) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0507-perfect-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0326-power-of-three) |
 ## String
 |  |
