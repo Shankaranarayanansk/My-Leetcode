@@ -14,14 +14,7 @@ public:
            rev2 = rev2*10 + rev%10;
            rev = rev/10; 
         }
-        if(rev2 == ori)
-        {
-            return true;
-        }
-        else 
-        {
-            return false;
-        }
+         return rev2 == ori;
 
     }
 };
