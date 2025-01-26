@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0728-self-dividing-numbers) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0742-to-lower-case) |
 | [0778-reorganize-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0778-reorganize-string) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0415-add-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Tree
