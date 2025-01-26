@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2491-smallest-even-multiple](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2491-smallest-even-multiple) |
+| [2571-find-the-pivot-integer](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2752-sum-multiples) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2571-find-the-pivot-integer](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2571-find-the-pivot-integer) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Geometry
 |  |
