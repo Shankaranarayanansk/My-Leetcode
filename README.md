@@ -232,11 +232,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0204-count-primes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
