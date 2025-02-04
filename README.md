@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1835-decode-xored-permutation](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1835-decode-xored-permutation) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
