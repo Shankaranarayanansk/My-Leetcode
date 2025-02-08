@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0136-single-number](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0268-missing-number) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
