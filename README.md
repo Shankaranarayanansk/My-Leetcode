@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3379-score-of-a-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3379-score-of-a-string) |
+| [3447-clear-digits](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0415-add-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3447-clear-digits](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0020-valid-parentheses) |
+| [3447-clear-digits](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3447-clear-digits) |
 ## Matrix
 |  |
 | ------- |
