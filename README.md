@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1835-decode-xored-permutation](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1835-decode-xored-permutation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sorting
@@ -492,4 +494,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0948-sort-an-array) |
+## Union Find
+|  |
+| ------- |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Graph
+|  |
+| ------- |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 <!---LeetCode Topics End-->
