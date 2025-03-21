@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0778-reorganize-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0778-reorganize-string) |
 | [1635-number-of-good-pairs](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Backtracking
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/0778-reorganize-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -505,5 +508,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
