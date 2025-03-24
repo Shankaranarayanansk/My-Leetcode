@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3430-count-days-without-meetings](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2887-sort-vowels-in-a-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3430-count-days-without-meetings](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Counting
 |  |
 | ------- |
