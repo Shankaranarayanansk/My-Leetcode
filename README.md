@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3430-count-days-without-meetings](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Shankaranarayanansk/My-Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Counting
 |  |
 | ------- |
