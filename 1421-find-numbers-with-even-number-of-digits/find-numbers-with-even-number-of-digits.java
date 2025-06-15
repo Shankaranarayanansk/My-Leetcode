@@ -12,12 +12,12 @@ class Solution {
     }
     public int digits (int num)
     {
-        int n = 0;
-        while(num!=0)
-        {
-            num/=10;
-            n++;
-        }
-        return n;
+        // int n = 0;
+        // while(num!=0)
+        // {
+        //     num/=10;
+        //     n++;
+        // }
+        return (int)(Math.log10(num))+1;
     }
 }
